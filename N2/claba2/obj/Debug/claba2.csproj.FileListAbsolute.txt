@@ -1,0 +1,13 @@
+c:\users\vitaliy\documents\visual studio 2015\Projects\claba2\claba2\bin\Debug\claba2.exe.config
+c:\users\vitaliy\documents\visual studio 2015\Projects\claba2\claba2\bin\Debug\claba2.exe
+c:\users\vitaliy\documents\visual studio 2015\Projects\claba2\claba2\bin\Debug\claba2.pdb
+c:\users\vitaliy\documents\visual studio 2015\Projects\claba2\claba2\obj\Debug\claba2.csprojResolveAssemblyReference.cache
+c:\users\vitaliy\documents\visual studio 2015\Projects\claba2\claba2\obj\Debug\claba2.exe
+c:\users\vitaliy\documents\visual studio 2015\Projects\claba2\claba2\obj\Debug\claba2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2015\Projects\C#labs\N2\claba2\bin\Debug\claba2.exe.config
+C:\Users\Vitaliy\Documents\Visual Studio 2015\Projects\C#labs\N2\claba2\bin\Debug\claba2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2015\Projects\C#labs\N2\claba2\bin\Debug\claba2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2015\Projects\C#labs\N2\claba2\obj\Debug\claba2.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2015\Projects\C#labs\N2\claba2\obj\Debug\claba2.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2015\Projects\C#labs\N2\claba2\obj\Debug\claba2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2015\Projects\C#labs\N2\claba2\obj\Debug\claba2.pdb
